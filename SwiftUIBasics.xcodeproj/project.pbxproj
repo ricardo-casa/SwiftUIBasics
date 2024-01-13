@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		30CA734E2B24AE460025B2EB /* SymbolsAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30CA734D2B24AE460025B2EB /* SymbolsAnimations.swift */; };
+		3ECD79A02B5215DF00E5E60C /* FormTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ECD799E2B5215DF00E5E60C /* FormTextField.swift */; };
+		3ECD79A12B5215DF00E5E60C /* RequirementText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ECD799F2B5215DF00E5E60C /* RequirementText.swift */; };
 		557042892B24CB310048C81C /* ProfileListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557042882B24CB310048C81C /* ProfileListView.swift */; };
 		5570428B2B24D2F90048C81C /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5570428A2B24D2F90048C81C /* TabBarView.swift */; };
 		5570428D2B24D8050048C81C /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5570428C2B24D8050048C81C /* SignUpView.swift */; };
@@ -24,6 +26,8 @@
 
 /* Begin PBXFileReference section */
 		30CA734D2B24AE460025B2EB /* SymbolsAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolsAnimations.swift; sourceTree = "<group>"; };
+		3ECD799E2B5215DF00E5E60C /* FormTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FormTextField.swift; sourceTree = "<group>"; };
+		3ECD799F2B5215DF00E5E60C /* RequirementText.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequirementText.swift; sourceTree = "<group>"; };
 		557042882B24CB310048C81C /* ProfileListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileListView.swift; sourceTree = "<group>"; };
 		5570428A2B24D2F90048C81C /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
 		5570428C2B24D8050048C81C /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
@@ -76,6 +80,8 @@
 		557042872B24CAA70048C81C /* Components */ = {
 			isa = PBXGroup;
 			children = (
+				3ECD799E2B5215DF00E5E60C /* FormTextField.swift */,
+				3ECD799F2B5215DF00E5E60C /* RequirementText.swift */,
 				5598D3212B2403CE00A6AFD3 /* CircularImage.swift */,
 			);
 			path = Components;
@@ -195,6 +201,8 @@
 				30CA734E2B24AE460025B2EB /* SymbolsAnimations.swift in Sources */,
 				5598D3142B23DF6D00A6AFD3 /* SwiftUIBasicsApp.swift in Sources */,
 				5598D3242B24049B00A6AFD3 /* ProfileCardView.swift in Sources */,
+				3ECD79A12B5215DF00E5E60C /* RequirementText.swift in Sources */,
+				3ECD79A02B5215DF00E5E60C /* FormTextField.swift in Sources */,
 				557042892B24CB310048C81C /* ProfileListView.swift in Sources */,
 				557042912B24E5220048C81C /* PlansView.swift in Sources */,
 				5570428D2B24D8050048C81C /* SignUpView.swift in Sources */,
